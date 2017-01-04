@@ -1,0 +1,53 @@
+@media screen and (max-width: 640px) {
+	#headingSub {
+		font-size: 1.5em;
+	}
+	
+	#profileImage {
+		width: 35%;
+	}
+	
+	#supportHeading {
+		font-size: 2em;
+	}
+	
+	h1 {
+		font-size: 6em;
+    }
+}
+
+@media screen and (min-width: 641px) and (max-width:800px) {
+	#headingSub {
+		font-size: 2em;
+	}
+	
+	#profileImage {
+		width: 30%;
+	}
+	
+	#supportHeading {
+		font-size: 2.5em;
+	}
+	
+	h1 {
+		font-size: 8em;
+    }
+}
+
+@media screen and (min-width: 801px) and (max-width:1024px) {
+	#headingSub {
+		font-size: 2.25em;
+	}
+	
+	#profileImage {
+		width: 25%;
+	}
+	
+	#supportHeading {
+		font-size: 2.5em;
+	}
+	
+	h1 {
+		font-size: 9em;
+    }
+}
